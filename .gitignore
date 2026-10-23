@@ -1,0 +1,13 @@
+main/
+v1.ino
+
+# ain't needed
+hardware/mp3-backups/
+hardware/~mp3.kicad_pro.lck
+hardware/sym-lib-table
+hardware/mp3.kicad_prl
+hardware/mp3.kicad_pcb
+hardware/mp3.kicad_pro
+
+hardware/with headphone.kicad_pro
+hardware/with headphone.kicad_prl
